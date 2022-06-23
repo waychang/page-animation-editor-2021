@@ -11,6 +11,7 @@ Playfair = Utils.loadWebFont("Playfair Display")
 Avenir = Utils.loadWebFont("Avenir")
 Inter = Utils.loadWebFont("Inter")
 
+Canvas.backgroundColor = "hsl(270,30%,90%)"
 
 Framer.Defaults.style = 
 	fontFamily: Inter
